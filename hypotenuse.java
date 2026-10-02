@@ -1,6 +1,6 @@
 import  java.util.Scanner;
 
-public class hypotenuse {
+public class Hypotenuse {
     public static void main(String[] args){
         double a;
         double b;
