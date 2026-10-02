@@ -1,4 +1,4 @@
-public class math {
+public class MathNum {
     public static void main(String[] args){
 
          int result=Math.powExact(2, 4);
