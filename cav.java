@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class cav {
+public class Cav {
     public static void main(String[] args){
 
         double radius;
