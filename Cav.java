@@ -29,7 +29,7 @@ public class Cav {
         System.out.println("The Area is: "+area+"cm");
         System.out.println("The Voulume is: "+volume+"cm");
 
-        sc.close();;
+        sc.close();
     }
     
         
