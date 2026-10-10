@@ -36,6 +36,7 @@ class SubString{
             System.out.println("Email Is In Vaild");
         }
 
+        sc.close();;
         
     }
 }
