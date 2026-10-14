@@ -1,4 +1,4 @@
-import java.util.Scanner;;
+import java.util.Scanner;
 public class BankLoanEligibility {
     public static void main(String[] args){
         int age,salary_check,credit_score_check,experience_check,Loan;
